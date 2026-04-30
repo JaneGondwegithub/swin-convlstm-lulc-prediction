@@ -1,0 +1,3 @@
+data/raw/Drivers/
+data/raw/*.tif
+data/processed/*.tif
